@@ -21,49 +21,50 @@ algorithm** modeling the transition from sequence to hierarchy.
 
 I am currently a **Postdoctoral Researcher at the University of Milano-Bicocca**,
 working on **TELMÌ**, a technology-driven project developed in collaboration with
-**Politecnico di Milano** for linguistically grounded digital interventions for
-children with language vulnerabilities.
+**Politecnico di Milano** and **Fondazione IRCCS Istituto Neurologico Carlo Besta**
+for linguistically grounded digital interventions for children with linguistic vulnerabilities.
 
 My work combines **linguistic theory, experimental methodology, and language
 technologies**, with a particular focus on the use of **Generative AI** for controlled
 linguistic materials and visual stimuli.
 
-As part of this work, I designed and coordinated a **structured GenAI-assisted
-image generation and validation workflow** for experimental linguistic materials.
+As part of this work, I designed and coordinated a **structured GenAI-assisted image
+generation and validation workflow**, translating linguistic and experimental
+requirements into explicit generation constraints, consistency rules, validation
+criteria, and error-correction procedures.
 
-The workflow translated linguistic and experimental requirements into explicit
-generation constraints, consistency rules, validation criteria, and error-correction
-procedures. It included strategies for maintaining character and scene consistency
-across multiple generations, preserving approved visual specifications, using
-spatial anchors to reduce ambiguity, and introducing human validation at each
-stage of the generation process.
+The workflow incorporated strategies for maintaining character and scene consistency,
+preserving approved visual specifications, reducing spatial ambiguity, and integrating
+human validation throughout the generation process. I supervised a **team of six
+students** applying these procedures to the development and validation of project materials.
 
-I also supervised a team of students applying these procedures to the development
-and validation of project materials.
+The practical challenges emerging from this work motivated a broader research line on
+the **linguistically informed evaluation of Generative AI systems**.
 
-The practical challenges that emerged from this work also motivated a broader
-research line on the **linguistically informed evaluation of Generative AI systems**.
+I developed a **semantic evaluation framework** that translates linguistic phenomena
+into explicit, testable semantic constraints and evaluates model outputs through
+**controlled benchmarks, structured annotation, error taxonomies, and quantitative
+analysis**.
 
-I developed a **semantic evaluation framework** that translates linguistic
-phenomena into explicit, machine-testable constraints and evaluates model outputs
-through controlled benchmarks, structured annotation, error taxonomies, and
-quantitative analysis.
-
-The framework separates different dimensions of semantic accuracy — including
-**entity identity, numerosity, and spatial relations** — making it possible to move
-beyond global judgments of output quality and identify precisely *which linguistic
-constraints a model fails to satisfy*. 
+The framework distinguishes multiple dimensions of semantic accuracy — including
+**entity identity, numerosity, and spatial relations** — enabling fine-grained analysis
+of *which linguistic constraints a model fails to satisfy*, rather than relying only on
+global judgments of output quality.
 
 This work resulted in the paper **“From Prompt Engineering to Stimulus Validity:
-Semantic Constraint Evaluation in Text-to-Image Generation”**, accepted at **CLiC-it 2026 – the Italian Conference on Computational Linguistics**
-in Palermo.
+Semantic Constraint Evaluation in Text-to-Image Generation”**, accepted at
+**CLiC-it 2026 – the Italian Conference on Computational Linguistics**, in Palermo.
+
+I am also co-supervising **two Master's students**, supporting thesis projects at the
+intersection of linguistics, language technologies, and experimental research.
 
 
 ## 🧩 Areas of expertise
 
 **Formal Language Theory · Cognitive Modeling · Statistical Learning ·
 Artificial Grammar Learning · Experimental Design · Quantitative Analysis ·
-Linguistic Data · Generative AI Evaluation · Benchmark & Annotation Design**
+Linguistic Data · GenAI Workflow Design · Generative AI Evaluation ·
+Benchmark & Annotation Design**
 
 
 ## 💻 Computational focus
