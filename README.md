@@ -59,7 +59,7 @@ and model evaluation**. Selected projects will be added here as the portfolio de
 ## 📫 Connect
 
 [Google Scholar](https://scholar.google.com/citations?user=IXvNTN4AAAAJ&hl=en) ·
-[University Profile](https://www.unimib.it/arianna-compostella) ·
+[Academic Profile](https://www.unimib.it/arianna-compostella) ·
 [LinkedIn](https://www.linkedin.com/in/ariannacompostella/)
 <!--
 **compostellaarianna/compostellaarianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
