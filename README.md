@@ -28,9 +28,35 @@ My work combines **linguistic theory, experimental methodology, and language
 technologies**, with a particular focus on the use of **Generative AI** for controlled
 linguistic materials and visual stimuli.
 
-This work also led me to develop a framework for the **systematic evaluation of
-Generative AI outputs**, combining semantic constraints, controlled benchmarks,
-structured annotation, error analysis, and quantitative evaluation.
+As part of this work, I designed and coordinated a **structured GenAI-assisted
+image generation and validation workflow** for experimental linguistic materials.
+
+The workflow translated linguistic and experimental requirements into explicit
+generation constraints, consistency rules, validation criteria, and error-correction
+procedures. It included strategies for maintaining character and scene consistency
+across multiple generations, preserving approved visual specifications, using
+spatial anchors to reduce ambiguity, and introducing human validation at each
+stage of the generation process.
+
+I also supervised a team of students applying these procedures to the development
+and validation of project materials.
+
+The practical challenges that emerged from this work also motivated a broader
+research line on the **linguistically informed evaluation of Generative AI systems**.
+
+I developed a **semantic evaluation framework** that translates linguistic
+phenomena into explicit, machine-testable constraints and evaluates model outputs
+through controlled benchmarks, structured annotation, error taxonomies, and
+quantitative analysis.
+
+The framework separates different dimensions of semantic accuracy — including
+**entity identity, numerosity, and spatial relations** — making it possible to move
+beyond global judgments of output quality and identify precisely *which linguistic
+constraints a model fails to satisfy*. 
+
+This work resulted in the paper **“From Prompt Engineering to Stimulus Validity:
+Semantic Constraint Evaluation in Text-to-Image Generation”**, accepted at **CLiC-it 2026 – the Italian Conference on Computational Linguistics**
+in Palermo.
 
 
 ## 🧩 Areas of expertise
