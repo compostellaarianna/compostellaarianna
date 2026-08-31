@@ -12,43 +12,26 @@ My doctoral research investigated how **statistical regularities** in sequential
 ## 🔬 Current work
 
 I am currently a **Postdoctoral Researcher at the University of Milano-Bicocca**,
-working on **TELMÌ**, a technology-driven project developed in collaboration with
-**Politecnico di Milano** and **Fondazione IRCCS Istituto Neurologico Carlo Besta**
-for linguistically grounded digital interventions for children with linguistic vulnerabilities.
+working on **TELMÌ**, a technology-driven project developed with **Politecnico di Milano**
+and **Fondazione IRCCS Istituto Neurologico Carlo Besta**.
 
-My work combines **linguistic theory, experimental methodology, and language
-technologies**, with a particular focus on the use of **Generative AI** for controlled
-linguistic materials and visual stimuli.
+My work focuses on the intersection of **linguistic theory, experimental methodology,
+and language technologies**. I designed and coordinated a **GenAI-assisted generation
+and validation workflow** for controlled linguistic materials, translating linguistic
+requirements into explicit generation constraints, consistency rules, quality-control
+criteria, and human-in-the-loop validation procedures.
 
-As part of this work, I designed and coordinated a **structured GenAI-assisted image
-generation and validation workflow**, translating linguistic and experimental
-requirements into explicit generation constraints, consistency rules, validation
-criteria, and error-correction procedures.
+Building on this work, I developed a **linguistically informed semantic evaluation
+framework for Generative AI**, combining controlled benchmarks, structured annotation,
+error taxonomies, and quantitative analysis to identify which semantic constraints
+models fail to satisfy.
 
-The workflow incorporated strategies for maintaining character and scene consistency,
-preserving approved visual specifications, reducing spatial ambiguity, and integrating
-human validation throughout the generation process. I supervised a **team of six
-students** applying these procedures to the development and validation of project materials.
-
-The practical challenges emerging from this work motivated a broader research line on
-the **linguistically informed evaluation of Generative AI systems**.
-
-I developed a **semantic evaluation framework** that translates linguistic phenomena
-into explicit, testable semantic constraints and evaluates model outputs through
-**controlled benchmarks, structured annotation, error taxonomies, and quantitative
-analysis**.
-
-The framework distinguishes multiple dimensions of semantic accuracy — including
-**entity identity, numerosity, and spatial relations** — enabling fine-grained analysis
-of *which linguistic constraints a model fails to satisfy*, rather than relying only on
-global judgments of output quality.
-
-This work resulted in the paper **“From Prompt Engineering to Stimulus Validity:
+This research resulted in the paper **“From Prompt Engineering to Stimulus Validity:
 Semantic Constraint Evaluation in Text-to-Image Generation”**, accepted at
-**CLiC-it 2026 – the Italian Conference on Computational Linguistics**, in Palermo.
+**CLiC-it 2026 – the Italian Conference on Computational Linguistics**.
 
-I am also co-supervising **two Master's students**, supporting thesis projects at the
-intersection of linguistics, language technologies, and experimental research.
+I also supervised a **team of six students working on GenAI-assisted content generation and validation** and currently co-supervise
+**two Master's thesis projects** related to linguistics and language technologies.
 
 
 ## 🧩 Areas of expertise
