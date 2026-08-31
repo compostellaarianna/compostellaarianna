@@ -1,11 +1,10 @@
 # Hi, I'm Arianna 👋
 
 I'm a linguist and postdoctoral researcher with a PhD in Linguistics focused on
-**Statistical Learning, Formal Language Theory, and hierarchical structure**.
+**Statistical Learning in Human Cognition** and the representation of sequential and
+hierarchical structure.
 
-During my PhD, I investigated how statistical regularities in sequential input can
-support the construction of **recursive hierarchical representations**, and proposed
-a **cognitive parsing algorithm** modeling the transition from sequence to hierarchy.
+My doctoral research investigated how **statistical regularities** in sequential input can scaffold the construction of **recursive hierarchical representations**. Combining **Formal Language Theory, Artificial Grammar Learning, and cognitive modeling**, I proposed a **cognitive parsing model** in which statistical cues progressively support **segmentation, chunking, categorization, and labeling** of the input, thereby **reducing processing demands** and constraining the search space involved in **mapping linear sequences onto hierarchical structure**.
 
 📖 [Read my PhD thesis](https://iris.univr.it/handle/11562/1134066)
 
