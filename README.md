@@ -44,10 +44,8 @@ linguistics and language technologies.
 
 ## 🧩 Areas of expertise
 
-**Formal Language Theory · Cognitive Modeling · Statistical Learning ·
-Artificial Grammar Learning · Experimental Design · Quantitative Analysis ·
-Linguistic Data · GenAI Workflow Design · Semantic Evaluation ·
-Generative AI Evaluation · Benchmark & Annotation Design**
+**Formal Language Theory · Cognitive Modeling · Statistical Learning · Experimental Design · Data Science · Quantitative Analysis ·
+Linguistic Data · GenAI Workflow Design · Prompt Engineering · Generative AI Evaluation · Benchmark & Annotation Design**
 
 
 ## 💻 Computational focus
